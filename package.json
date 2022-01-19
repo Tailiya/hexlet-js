@@ -1,5 +1,5 @@
 {
-  "name": "JavaSqipt",
+  "name": "JavaScript",
   "version": "1.0.0",
   "type": "module",
   "description": "Мой первый проект на Хекслете",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Tailiya/hexlet-js/issues"
   },
-  "homepage": "https://github.com/Tailiya/hexlet-js#readme"
+  "homepage": "https://github.com/Tailiya/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
